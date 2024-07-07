@@ -4,6 +4,8 @@
     box-sizing: border-box;
     text-decoration: none;
     text-transform: capitalize;
+    font-family: "Poppins", sans-serif;
+
     /* text-align: center; */
 }
 .container{
